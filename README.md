@@ -1,9 +1,7 @@
 # datavisualization
 
 ## View it Live
-```
 [Vercel Deployment](https://vue-viz.vercel.app/)
-```
 
 ## Project setup
 ```
